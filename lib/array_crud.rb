@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+  herbs = []
 end
 
 def create_an_array
-  
+  herbs = [oregano, parsley, cilantro, mint]
 end
 
 def add_element_to_end_of_array(array, element)
