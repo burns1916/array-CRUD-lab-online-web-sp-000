@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array(herbs)
-  herbs = [oregano, parsley, cilantro, mint]
+  [oregano, parsley, cilantro, mint]
 end
 
 def add_element_to_end_of_array(array, element)
