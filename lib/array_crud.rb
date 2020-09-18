@@ -2,7 +2,7 @@ def create_an_empty_array
   herbs = []
 end
 
-def create_an_array
+def create_an_array(herbs)
   herbs = [oregano, parsley, cilantro, mint]
 end
 
